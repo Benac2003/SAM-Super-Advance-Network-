@@ -1,4 +1,4 @@
-ackage genesis;
+package genesis;
 
 import java.io.BufferedReader;
 import java.io.IOException;
