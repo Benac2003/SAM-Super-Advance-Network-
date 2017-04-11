@@ -1,4 +1,4 @@
-package genesis;
+package SAM;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,9 +8,9 @@ import java.io.PrintWriter;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public final class Genesis {
+public final class SAM {
 
-public static final String name = "Genesis";
+public static final String name = "SAM";
 public static final String version = "1.0";
 
 public static void main(String[] args) {
